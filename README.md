@@ -4,7 +4,7 @@ An implementation of 'Expense' and 'ExpenseDatabase' Python classes to model and
 
 ## Table of contents
 
-- [Expense](#Expense)
+- [Expense](#Expense-💸)
 - [ExpenseDataBase](#ExpenseDataBase)
 - [Source code](#source-code)
 
