@@ -97,10 +97,13 @@ expense_db = ExpenseDataBase()
 # create new expense object
 expense1 = Expense("Internet Sub", 12800)
 expense2 = Expense("Transport", 25000)
+expense3 = Expense("Fuel", 30000)
 
 # add expenses to expense_db
 expense_db.add_expense(expense1)
 expense_db.add_expense(expense2)
+expense_db.add_expense(expense3)
+
 
 print("These are your expenses:", expense_db.to_dict())
 
