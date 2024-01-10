@@ -20,7 +20,17 @@ This represents an individual financial expense with the following attributes:
 Manages a collection of Expense objects and has the following attributes:
 - expenses: A list storing Expense instances.
 
-## Source code
-To run this project, clone it by clicking the Code button, copying the URL, and pasting it into your code editor or terminal.
+## Running This Project
+#### Using VSCode:
+- Copy the repo url: 
+``` 
+https://github.com/saladel/AltSchool-Fall-Semester-DE-Exam.git 
+```
+- Open a New Window on VSCode and click Source Control
+- Paste the url and select **Clone from url** then watch the magic happen!
+
+
+
+ clone it by clicking the Code button, copying the URL, and pasting it into your code editor or terminal.
 
 [🔝](#Description)
